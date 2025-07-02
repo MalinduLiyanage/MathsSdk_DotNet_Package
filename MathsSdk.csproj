@@ -4,6 +4,10 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <PackageId>MalinduLiyanage.MathsSdk</PackageId>
+    <Version>1.0.0</Version>
+    <Author>Malindu Liyanage</Author>
+    <Product>Maths SDK</Product>
   </PropertyGroup>
 
 </Project>
